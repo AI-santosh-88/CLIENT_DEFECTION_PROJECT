@@ -50,14 +50,14 @@ The dataset used for this project includes various features that influence custo
 # Data Preprocessing 
 The following preprocessing steps were undertaken to prepare the data for modeling:
 
-#### 1  Data Cleaning: 
-Handled missing values and ensured data integrity. 
+#### 1 Data Cleaning: 
+       Handled missing values and ensured data integrity. 
 #### 2 Feature Engineering: 
-Created new features from existing data to better capture customer behavior. 
+       Created new features from existing data to better capture customer behavior. 
 #### 3 Encoding Categorical Variables: 
-Applied one-hot encoding to transform categorical variables into numerical format for model training. 
+       Applied one-hot encoding to transform categorical variables into numerical format for model training. 
 #### 4 Data Scaling: 
-Standardized numerical features to bring them onto a similar scale, which is critical for certain algorithms. 
+       Standardized numerical features to bring them onto a similar scale, which is critical for certain algorithms. 
 
 
 # Models Implemented 
@@ -79,7 +79,7 @@ The models were evaluated based on accuracy, with the following results:
 * Random Forest Classifier: Accuracy: 0.82
 * AdaBoost Classifier: Accuracy: 0.82
 * Gradient Boosting Classifier: Accuracy: 0.82
-* XGBoost Classifier: Accuracy: 0.84 🎉
+* XGBoost Classifier: Accuracy: 0.84 
 * Final Gradient Boosting Classifier Model: Accuracy: 0.83
 
 # Streamlit App 
