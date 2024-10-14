@@ -3,14 +3,10 @@
 ## Dataset 📋
 The dataset used for this project includes various features that influence customer retention, such as:
 
-#### CustomerID: 
-Unique identifier for each customer
-#### Gender: 
-Gender of the customer
-#### SeniorCitizen: 
-Indicates if the customer is a senior citizen (1 = Yes, 0 = No)
-#### Partner: 
-Whether the customer has a partner (Yes/No)
+* CustomerID: Unique identifier for each customer
+* Gender: Gender of the customer
+* SeniorCitizen: Indicates if the customer is a senior citizen (1 = Yes, 0 = No)
+* Partner: Whether the customer has a partner (Yes/No)
 Dependents: Whether the customer has dependents (Yes/No)
 Tenure: Duration of the customer's relationship with the company (in months)
 PhoneService: Whether the customer has phone service (Yes/No)
