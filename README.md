@@ -58,3 +58,14 @@ Created new features from existing data to better capture customer behavior.
 Applied one-hot encoding to transform categorical variables into numerical format for model training. 
 #### 4 Data Scaling: 
 Standardized numerical features to bring them onto a similar scale, which is critical for certain algorithms. 
+
+
+# Models Implemented 
+The project evaluated the following machine learning models:
+
+### Logistic Regression
+### Decision Tree Classifier
+### Random Forest Classifier
+### AdaBoost Classifier
+### Gradient Boosting Classifier
+### XGBoost Classifier
