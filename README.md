@@ -81,3 +81,7 @@ The models were evaluated based on accuracy, with the following results:
 * Gradient Boosting Classifier: Accuracy: 0.82
 * XGBoost Classifier: Accuracy: 0.84 🎉
 * Final Gradient Boosting Classifier Model: Accuracy: 0.83
+
+# Streamlit App 
+ I've developed a user-friendly Streamlit app where users can input customer details and get instant predictions on churn likelihood. 
+ #### Check it out here: http://localhost:8503/#client-defection-prediction
