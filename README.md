@@ -63,9 +63,21 @@ Standardized numerical features to bring them onto a similar scale, which is cri
 # Models Implemented 
 The project evaluated the following machine learning models:
 
-### Logistic Regression
-### Decision Tree Classifier
-### Random Forest Classifier
-### AdaBoost Classifier
-### Gradient Boosting Classifier
-### XGBoost Classifier
+* ### Logistic Regression
+* ### Decision Tree Classifier
+* ### Random Forest Classifier
+* ### AdaBoost Classifier
+* ### Gradient Boosting Classifier
+* ### XGBoost Classifier
+
+
+# Model Performance 
+The models were evaluated based on accuracy, with the following results:
+
+* Logistic Regression: Accuracy: 0.80
+* Decision Tree Classifier: Accuracy: 0.81
+* Random Forest Classifier: Accuracy: 0.82
+* AdaBoost Classifier: Accuracy: 0.82
+* Gradient Boosting Classifier: Accuracy: 0.82
+* XGBoost Classifier: Accuracy: 0.84 🎉
+* Final Gradient Boosting Classifier Model: Accuracy: 0.83
