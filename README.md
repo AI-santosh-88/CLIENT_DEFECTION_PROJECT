@@ -45,3 +45,16 @@ The dataset used for this project includes various features that influence custo
   Total charges incurred by the customer
 * #### Churn:
   Whether the customer churned (Yes/No)
+
+
+# Data Preprocessing 
+The following preprocessing steps were undertaken to prepare the data for modeling:
+
+#### 1  Data Cleaning: 
+Handled missing values and ensured data integrity. 
+#### 2 Feature Engineering: 
+Created new features from existing data to better capture customer behavior. 
+#### 3 Encoding Categorical Variables: 
+Applied one-hot encoding to transform categorical variables into numerical format for model training. 
+#### 4 Data Scaling: 
+Standardized numerical features to bring them onto a similar scale, which is critical for certain algorithms. 
